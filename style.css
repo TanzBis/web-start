@@ -1,0 +1,50 @@
+.container {
+  max-width: 1140px;
+  width: 96%;
+  padding-top: 10px;
+  margin: auto;
+}
+
+.autoris {
+  margin-top: 10px;
+}
+
+.autoris {
+  font-size: 12px;
+}
+
+a {
+  color: blue;
+}
+/* Текст внутри тега "a" по умолчанию такого цвета, но он не отображается в этом редакторе*/
+
+input {
+  border: solid 1px #e6e6e6;
+  border-radius: 4px;
+  background-color: #f5f5f5;
+  width: 40%;
+  padding: 5px;
+}
+
+/* Некоторые стили использованы только для отображения в tailwind */
+
+button {
+  background-color: blue;
+  padding: 5px 5px;
+  border-radius: 4px;
+  width: 40%;
+  color: white;
+}
+
+p {
+  margin-left: 60px;
+}
+
+.link {
+  font-size: 10px;
+}
+
+.link-member {
+  margin: auto;
+  font-size: 12px;
+}
